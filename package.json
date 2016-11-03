@@ -1,8 +1,8 @@
 {
   "name": "grunt-jslint-es6",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "grunt task for run jslint",
-  "main": "index.js",
+  "main": "tasks/jslint.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

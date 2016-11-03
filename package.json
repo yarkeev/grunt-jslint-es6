@@ -1,0 +1,29 @@
+{
+  "name": "grunt-jslint-es6",
+  "version": "1.0.0",
+  "description": "grunt task for run jslint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarkeev/grunt-jslint-es6.git"
+  },
+  "keywords": [
+    "jslint",
+    "grunt"
+  ],
+  "author": "denis.yarkeev@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yarkeev/grunt-jslint-es6/issues"
+  },
+  "homepage": "https://github.com/yarkeev/grunt-jslint-es6#readme",
+  "dependencies": {
+    "jslint": "^0.10.3"
+  },
+  "devDependencies": {
+    "lodash": "^4.16.6"
+  }
+}
